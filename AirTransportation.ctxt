@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=AirTransportation
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ AirTransportation\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=name\ numberOfContainers
+comment1.target=AirTransportation(java.lang.String,\ int)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ AirTransportation\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Um\ exemplo\ de\ um\ m\u00E9todo\ -\ substitua\ este\ coment\u00E1rio\ pelo\ seu\ pr\u00F3prio\r\n\ \r\n\ @param\ \ y\ \ \ um\ exemplo\ de\ um\ par\u00E2metro\ de\ m\u00E9todo\r\n\ @return\ \ \ \ \ a\ soma\ de\ x\ e\ y\ \r\n
+comment3.params=
+comment3.target=int\ getNumberOfContainers()
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment5.params=numberOfContainers
+comment5.target=void\ setNumberOfContainers(int)
+comment6.params=
+comment6.target=double\ getPriceWithFees()
+comment7.params=
+comment7.target=java.lang.String\ getTransportType()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

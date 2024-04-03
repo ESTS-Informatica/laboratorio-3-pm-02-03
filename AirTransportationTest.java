@@ -31,9 +31,9 @@ public class AirTransportationTest {
         airTransport.setName("Airbus A380");
         assertEquals("Airbus A380", airTransport.getName());
 
-        // Testar se aceita null
+        // Testar se aceita null, como não aceita que não haja nome
         airTransport.setName(null);
-        assertNull(airTransport.getName());
+        assertNotNull(airTransport.getName());
     }
 
     @Test
